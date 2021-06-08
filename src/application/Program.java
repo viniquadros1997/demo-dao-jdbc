@@ -20,6 +20,7 @@ public class Program {
 		System.out.println(seller);
 		
 		SellerDao sellerdao = DaoFactory.createSellerDao();
+		System.out.println(seller);
 		
 		
 		
